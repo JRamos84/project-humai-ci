@@ -1,0 +1,6 @@
+pytest  # para hacer unit testing
+pytest-cov  # para crear reportes de coverage
+mypy  # para realizar analisis estaticos de tipado
+ruff  # para realizar linting y formateo
+
+pandas
